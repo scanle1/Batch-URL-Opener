@@ -9,8 +9,10 @@
 
 # 使用
 
-1. chrome浏览器直接打开[扩展中心](chrome://extensions/)
-2. ![image](https://github.com/user-attachments/assets/06f29831-8bf3-4e0e-a85e-df9e8cd6a5a6)
+1. 下载本仓库并解压
+2. 删除README.md文件
+3. chrome浏览器直接打开 [扩展中心](chrome://extensions/)
+4. <img src="https://github.com/user-attachments/assets/06f29831-8bf3-4e0e-a85e-df9e8cd6a5a6"  style="zoom: 52%;" />
 
 
 ### 示例1
